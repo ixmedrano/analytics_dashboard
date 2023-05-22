@@ -2,6 +2,8 @@
 
 This project demonstrates how to perform some basic data analysis and create visualizations using Python, Tkinter, and Dask. The application allows users to explore multiple dataframes and perform exploratory data analysis, linear regression, and create various plots. Due to the size i was unable to upload the data i was working with. Refer to the data model pdf for what files and columns the application is expecting.
 
+This application and use case i found online regarding mobile gaming and monetization. This was a very fun project to work on as it focused on some development aspects that i have not focused on in the past.
+
 ## Features
 
 - Display multiple dataframes in separate tabs
